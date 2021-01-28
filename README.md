@@ -1,7 +1,7 @@
 # Multi_Category_Scenes_fMRI_analysis
 
 
-This code was used to analyze the data for the paper (please cite if using this code): Kliger, L., & Yovel, G. (submitted). TThe representation of multi-category scenes varies as a function of the distance between category-selective visual brain areas. 
+This code was used to analyze the data for the paper (please cite if using this code): Kliger, L., & Yovel, G. (submitted). The representation of multi-category scenes varies as a function of the distance between category-selective visual brain areas. 
 
 The code is divided to five parts (by order of running):
 
